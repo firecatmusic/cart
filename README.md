@@ -27,6 +27,10 @@ Aplikasi kasir offline di flutter,
 3. ❌ Laporan Produk Terlaris – Lihat barang yang paling sering dibeli
 4. ❌ Ekspor Data ke Excel – Simpan laporan ke file CSV untuk backup manual
 
+# Manajemen Karyawan 👨‍💼
+1. ❌ Multi-User & Hak Akses – Kasir, admin, dan pemilik toko dengan akses berbeda
+2. ❌Log Aktivitas – Memonitor siapa yang melakukan transaksi
+
 # Fitur Pendukung (Tanpa Internet) 🚀
 1. ❌ Mode Full Offline – Semua data disimpan di database lokal (SQLite/Sembast)
 2. ❌ Backup & Restore Data – Bisa backup manual ke file lokal (misal .db atau .csv)
