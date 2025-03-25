@@ -1,8 +1,6 @@
 # cart
 
-Aplikasi kasir di flutter,
-
-## Todo Main Feature (Offline mode)
+Aplikasi kasir offline di flutter,
 
 # Manajemen Penjualan 🛒
 1. ❌ Transaksi Cepat – Input barang, jumlah, dan harga secara langsung
