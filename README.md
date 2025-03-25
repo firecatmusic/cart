@@ -1,6 +1,6 @@
 # cart
 
-Aplikasi kasir offline di flutter,
+Aplikasi kasir offline di flutter buat tugas akhir kuliah 🤙🏻
 
 # Manajemen Penjualan 🛒
 1. ❌ Transaksi Cepat – Input barang, jumlah, dan harga secara langsung
