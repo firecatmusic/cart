@@ -2,15 +2,34 @@
 
 A new Flutter project.
 
-## Getting Started
+## Todo Main Feature (Offline mode)
 
-This project is a starting point for a Flutter application.
+1. Manajemen Penjualan 🛒
+❌ Transaksi Cepat – Input barang, jumlah, dan harga secara langsung
+❌ Pembayaran Multi-Metode – Tunai, kartu (manual), QRIS (offline mode)
+❌ Diskon & Promo – Diskon per item atau seluruh transaksi
+❌ Cetak Struk – Dukungan printer thermal via Bluetooth/USB
+❌ Riwayat Transaksi – Simpan semua transaksi dalam database lokal
 
-A few resources to get you started if this is your first Flutter project:
+2. Manajemen Produk & Stok 📦
+❌ Tambah/Edit/Hapus Produk – Kelola daftar produk langsung dari aplikasi
+❌ Kategori Produk – Mengelompokkan barang agar mudah dicari
+❌ Barcode Scanner – Memindai produk dengan kamera atau scanner eksternal
+❌ Manajemen Stok – Stok otomatis berkurang setelah transaksi
+❌ Peringatan Stok Habis – Notifikasi ketika stok hampir habis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Manajemen Pelanggan 👥
+❌ Data Pelanggan – Simpan data pelanggan untuk transaksi berikutnya
+❌ Riwayat Pembelian – Lihat daftar belanja pelanggan sebelumnya
+❌ Member & Loyalty Program – Poin reward atau diskon khusus pelanggan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Laporan & Analisis (Offline Mode) 📊
+❌ Laporan Penjualan – Statistik harian, mingguan, bulanan
+❌ Laporan Keuntungan & Pengeluaran – Hitung laba rugi secara otomatis
+❌ Laporan Produk Terlaris – Lihat barang yang paling sering dibeli
+❌ Ekspor Data ke Excel – Simpan laporan ke file CSV untuk backup manual
+
+5. Fitur Pendukung (Tanpa Internet) 🚀
+❌ Mode Full Offline – Semua data disimpan di database lokal (SQLite/Sembast)
+❌ Backup & Restore Data – Bisa backup manual ke file lokal (misal .db atau .csv)
+❌ Dukungan Printer Bluetooth – Cetak struk langsung tanpa internet
