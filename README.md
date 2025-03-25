@@ -1,6 +1,6 @@
 # cart
 
-A new Flutter project.
+Aplikasi kasir di flutter,
 
 ## Todo Main Feature (Offline mode)
 
